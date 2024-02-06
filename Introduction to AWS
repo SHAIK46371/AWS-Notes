@@ -1,5 +1,8 @@
 What is cloud?
-Cloud refers to the delivery of computing services, including storage, processing power, and software, over the internet. Instead of relying on local servers or personal devices, users can access and use these resources remotely, typically on a pay-as-you-go basis. Cloud computing offers scalability, flexibility, and the ability to access data and applications from anywhere with an internet connection. Common cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+Cloud refers to the delivery of computing services, including storage, processing power, and software, over the internet. 
+Instead of relying on local servers or personal devices, users can access and use these resources remotely, typically on a pay-as-you-go basis. 
+Cloud computing offers scalability, flexibility, and the ability to access data and applications from anywhere with an internet connection.
+Common cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
 What is public cloud and private cloud?
 Public cloud and private cloud refer to different deployment models in cloud computing.
