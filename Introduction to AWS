@@ -1,0 +1,31 @@
+What is cloud?
+Cloud refers to the delivery of computing services, including storage, processing power, and software, over the internet. Instead of relying on local servers or personal devices, users can access and use these resources remotely, typically on a pay-as-you-go basis. Cloud computing offers scalability, flexibility, and the ability to access data and applications from anywhere with an internet connection. Common cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+What is public cloud and private cloud?
+Public cloud and private cloud refer to different deployment models in cloud computing.
+
+1. **Public Cloud:**
+   - Public cloud services are offered by third-party providers and are available to anyone who wants to use or purchase them.
+   - Resources like servers, storage, and applications are shared among multiple customers (multi-tenancy).
+   - Users pay for the services on a pay-as-you-go basis, making it a cost-effective option for many organizations.
+   - Examples of public cloud providers include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+2. **Private Cloud:**
+   - Private cloud is operated solely for a single organization. It can be managed by the organization itself or a third party.
+   - Resources are dedicated to the organization, offering greater control and customization over infrastructure.
+   - Private clouds are often chosen by organizations with specific security, compliance, or performance requirements.
+   - While potentially more expensive than public cloud, private cloud provides a higher level of privacy and control.
+
+In some cases, organizations may also opt for a hybrid cloud model, which combines elements of both public and private clouds to meet their specific 
+
+In- house means?
+"In-house" refers to activities or operations that are performed within an organization or company by its own employees, rather than being outsourced or delegated to external parties. When something is done in-house, it means the organization handles it internally using its own resources, staff, and infrastructure.
+
+For example, if a company decides to build and manage its private cloud infrastructure in-house, it means the organization's IT team is responsible for designing, implementing, and maintaining the private cloud environment using the company's own hardware, software, and personnel. This is in contrast to outsourcing these tasks to external service providers.
+
+Does SBI uses private cloud or public cloud ?
+
+As of my last knowledge update in January 2022, specific information about the State Bank of India's (SBI) cloud infrastructure may not be readily available. Organizations, including banks, often make decisions about using private or public cloud based on various factors like security, regulatory compliance, and business requirements.
+
+SBI, being a large financial institution, might have considerations for data security and compliance that lead them to prefer a private cloud or a hybrid cloud model. For the most accurate and up-to-date information on SBI's cloud infrastructure, I recommend checking their official statements, press releases, or contacting the bank directly. The technology landscape and decisions regarding cloud adoption can evolve, so the latest information is crucial for an accurate understanding of their current practices.
+needs.
